@@ -1,3 +1,6 @@
+# Deze is een "oude" versie omdat de huidige op 2203/01/13 niet wil bouwen op ROS1-Melodic
+
+
 # depthai-ros
 main branch supports ROS Melodic, ROS Noetic, ROS2 Foxy & Galactic. Might also work on kinetic too.
 
