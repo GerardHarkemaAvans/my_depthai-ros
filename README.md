@@ -1,4 +1,4 @@
-# Deze is een "oude" versie omdat de huidige op 2203/01/13 niet wil bouwen op ROS1-Melodic
+# Dit is een "oude" versie omdat de huidige op 2023/01/13 niet wil bouwen op ROS1-Melodic
 
 
 # depthai-ros
